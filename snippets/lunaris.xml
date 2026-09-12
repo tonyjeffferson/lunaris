@@ -48,7 +48,7 @@
   <project path="external/zlib-ng" name="Lunaris-AOSP/external_zlib-ng" groups="pdk" remote="lunaris" />
 
   <project path="frameworks/av" name="Lunaris-AOSP/frameworks_av" groups="pdk,sysui-studio" remote="lunaris" />
-  <project path="frameworks/base" name="Lunaris-AOSP/frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="lunaris" />
+  <project path="frameworks/base" name="tonyjeffferson/frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="lunaris" />
   <project path="frameworks/libs/systemui" name="Lunaris-AOSP/frameworks_libs_systemui" groups="pdk-cw-fs,pdk-fs,sysui-studio" remote="lunaris" />
   <project path="frameworks/native" name="Lunaris-AOSP/frameworks_native" groups="pdk" remote="lunaris" />
   <project path="frameworks/opt/net/wifi" name="Lunaris-AOSP/frameworks_opt_net_wifi" groups="pdk,sysui-studio" remote="lunaris" />
